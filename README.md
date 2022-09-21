@@ -131,7 +131,7 @@ Redis é o banco de dados de valores-chave mais popular do mundo, ou seja, seus 
 - Replicação e persistência;
 - Compatibilidade com a sua linguagem de desenvolvimento preferencial.
 
-# Conclusão e reflexão
+## Conclusão e reflexão
 O NoSQL tem muitas vantagens para ser utilizado. Mas não é por isso que devemos utilizá-lo em todas as situações. Em muitos sistemas, você pode (e até deve) usar o modelo relacional. O NoSQL é mais indicado para aqueles sistemas que tenham necessidades maiores de armazenamento e desempenho.
 
 O banco de dados relacional sempre irá fornecer dados íntegros e imutáveis, garantindo um controle transacional consistente. Além disso, seu esquema é rígido, sendo possível atribuir campos e estabelecer se o dado de uma coluna é nulo ou não nulo.
